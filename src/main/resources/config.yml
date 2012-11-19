@@ -15,7 +15,7 @@ announcement:
     random: false
 
     # Defines the prefix for the announcement. Use & + hex char for color codes.
-    prefix: '&c[Announcement] '
+    prefix: '&c[Duyuru] '
 
     # The time of one interval in seconds.
     interval: 100
